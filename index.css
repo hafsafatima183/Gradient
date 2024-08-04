@@ -1,0 +1,8 @@
+body{
+    background-image:linear-gradient(rgb(255, 0, 208),blue );
+    background-repeat: no-repeat;
+    color: aquamarine;
+    text-shadow: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
